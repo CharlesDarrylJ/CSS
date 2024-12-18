@@ -60,10 +60,6 @@
     }
 
     /* Video Section */
-    #default-message {
-	font-size: 18px;
-    }
-
     #video-container {
         text-align: center;
         margin: 20px auto;
@@ -71,6 +67,7 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+	font-size: 18px;
     }
 
     #video-player {
