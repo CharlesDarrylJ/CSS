@@ -12,6 +12,10 @@
         padding: 0;
         font-family: Arial, sans-serif;
     }
+    
+    #default-message {
+	font-size: 18px;
+    }
 
     /* Responsive Container */
     #show-info {
