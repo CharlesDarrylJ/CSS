@@ -1,0 +1,486 @@
+[
+    {
+        "url": "https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8",
+        "name": "24 Hour Free Movies"
+    },
+    {
+        "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
+        "name": "AMC Absolute Reality"
+    },
+    {
+        "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
+        "name": "AsianCrush"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8",
+        "name": "Bloody Disgusting TV"
+    },
+    {
+        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
+        "name": "CineLife"
+    },
+    {
+        "url": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8",
+        "name": "Classic Arts Showcase"
+    },
+    {
+        "url": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
+        "name": "Cinema One"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-classiccinema/index.m3u8",
+        "name": "Classic Cinema"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8",
+        "name": "Cinevault 80s"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8",
+        "name": "Cinevault Westerns"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8",
+        "name": "Cold Case Files"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8",
+        "name": "FBI Files"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8",
+        "name": "Filmrise Forensic Files"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8",
+        "name": "Filmrise True Crime"
+    },
+    {
+        "url": "https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8",
+        "name": "Filmstream"
+    },
+    {
+        "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
+        "name": "Game Show Network"
+    },
+    {
+        "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
+        "name": "Game+"
+    },
+    {
+        "url": "https://gcinemahls.wns.live/hls/stream.m3u8",
+        "name": "Grand Cinema"
+    },
+    {
+        "url": "https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8",
+        "name": "iFilm English"
+    },
+    {
+        "url": "https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8",
+        "name": "iHeart 80s"
+    },
+    {
+        "url": "https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8",
+        "name": "iHeart 90s"
+    },
+    {
+        "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+        "name": "KidsFlix"
+    },
+    {
+        "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
+        "name": "LOL! Network"
+    },
+    {
+        "url": "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8",
+        "name": "LOL Standup"
+    },
+    {
+        "url": "https://streamer1.nexgen.bz/MTV/index.m3u8",
+        "name": "MTV"
+    },
+      {
+        "url": "https://mst3k-vizio.amagi.tv/playlist.m3u8",
+        "name": "My Cinema"
+    },
+    {
+        "url": "https://gsn-cinevault-classics-2-us.lg.wurl.tv/playlist.m3u8",
+        "name": "Cinevault Classics"
+    },
+    {
+        "url": "https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8",
+        "name": "Reelz"
+    },
+    {
+        "url": "https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8",
+        "name": "Retro Crush"
+    },
+    {
+        "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8",
+        "name": "RT Documentary"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8",
+        "name": "The Film Detective"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+        "name": "TVS Classic Movies"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
+        "name": "TVS Comedy Network"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
+        "name": "TVS Drive In Movie"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
+        "name": "TVS Family Channel"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
+        "name": "TVS Hollywood History"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8",
+        "name": "TVS Flashback Network"
+    },
+    {
+        "url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+        "name": "CGTN Documentary"
+    },
+    {
+        "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8",
+        "name": "Bizzarro Movies"
+    },
+    {
+        "url": "https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+        "name": "Charge!"
+    },
+    {
+        "url": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+        "name": "Retro Music Television"
+    },
+    {
+        "url": "https://streamer1.nexgen.bz/VH1/index.m3u8",
+        "name": "VH1"
+    },
+    {
+        "url": "https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
+        "name": "TVS Nostalgia"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8",
+        "name": "BritBox Mysteries"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/58b79f0b-1003-406d-af59-5a46304dd96e/playlist.m3u8",
+        "name": "Cheaters"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/2deaecb8-7b65-4d08-a21a-6a73fbcd5369/playlist.m3u8",
+        "name": "Crime ThrillHer"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8",
+        "name": "Ebony TV"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/7b8ad356-ccc9-4ef4-b92d-c52da1dfc58d/playlist.m3u8",
+        "name": "Fear Factor USA"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/12b2d6e1-996e-4859-adf3-59acce9926c3/playlist.m3u8",
+        "name": "Horror by ALTER"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/87d83d4f-785a-46c8-9e33-12e879929c35/playlist.m3u8",
+        "name": "Unsolved Mysteries"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/c85e70fa-edb1-47c0-a92e-7d321358c236/playlist.m3u8",
+        "name": "World's Most Evil Killers"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/369cc1c0-fe7a-4d91-bba9-697123c6f325/playlist.m3u8",
+        "name": "Grit Xtra"
+    },
+    {
+        "url": "https://bamca-haunttv-lg.amagi.tv/playlist.m3u8",
+        "name": "HauntTV (US)"
+    },
+        {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-hanuttvuk-lggb/playlist.m3u8",
+        "name": "Haunt TV (UK)"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/ed7c82f7-bd63-4c1f-acdc-48f7b7e5474d/playlist.m3u8",
+        "name": "Gordon Ramsay"
+    },
+    {
+        "url": "https://live-manifest.production-public.tubi.io/live/477539bc-b3b5-4640-9af4-ba13d5f34b65/playlist.m3u8",
+        "name": "FilmRise Horror"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8",
+        "name": "Animal Planet"
+    },
+    {
+        "url": "https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8",
+        "name": "AMC+"
+    },
+    {
+        "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+        "name": "Action Hollywood Movies"
+    },
+    {
+        "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8",
+        "name": "NHK World Japan"
+    },
+    {
+        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
+        "name": "CineLife"
+    },
+    {
+        "url": "https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8",
+        "name": "Cult Classic Movie Theater"
+    },
+    {
+        "url": "https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "name": "Rakuten Family"
+    },
+    {
+        "url": "https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+        "name": "AFV"
+    },
+    {
+        "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+        "name": "History Hit Channel"
+    },
+    {
+        "url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8",
+        "name": "True History"
+    },
+    {
+        "url": "https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-tclus/playlist.m3u8",
+        "name": "Now 70s"
+    },
+    {
+        "url": "https://amg01076-lightning-amg01076c2-tcl-us-2470.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-tclus/playlist.m3u8",
+        "name": "Now 80s"
+    },
+    {
+        "url": "https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-tclus/playlist.m3u8",
+        "name": "Now Rock"
+    },
+    {
+        "url": "https://gsn-crunchyroll-1-us.anoki.wurl.tv/playlist.m3u8",
+        "name": "Crunchyroll"
+    },
+    {
+        "url": "https://jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8",
+        "name": "Fail Army"
+    },
+    {
+        "url": "https://amg01753-amg01753c3-lg-ie-2962.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lgie/playlist.m3u8",
+        "name": "Great Movies!"
+    },
+        {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8",
+        "name": "History Time"
+    },
+    {
+        "url": "https://iconfilmsdistribution-iconfilmchannelclassics-1-ie.lg.wurl.tv/playlist.m3u8",
+        "name": "Icon Film Classics"
+    },
+    {
+        "url": "https://movies4free-lg.amagi.tv/playlist.m3u8",
+        "name": "Movies 4 Free"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8",
+        "name": "Mytime Movie Network"
+    },
+    {
+        "url": "https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8",
+        "name": "New K-Movies"
+    },
+    {
+        "url": "https://rakuten-british-films-1-gb.lg.wurl.tv/playlist.m3u8",
+        "name": "Rakuten British Films"
+    },
+    {
+        "url": "https://rakuten-realseries-1-gb.lg.wurl.tv/playlist.m3u8",
+        "name": "Rakuten Real Series"
+    },
+    {
+        "url": "https://rakuten-romance-8-nl.lg.wurl.tv/playlist.m3u8",
+        "name": "Rakuten Romance"
+    },
+    {
+        "url": "https://rakuten-thriller-1-gb.lg.wurl.tv/playlist.m3u8",
+        "name": "Rakuten Thriller"
+    },
+    {
+        "url": "https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8",
+        "name": "Rakuten Viki"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimealpha-lggb/playlist.m3u8",
+        "name": "Real Crime"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-reallife-lggb/playlist.m3u8",
+        "name": "Real Life"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lggb/playlist.m3u8",
+        "name": "Real Wild"
+    },
+    {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8",
+        "name": "Free Movie Network"
+    },
+    {
+        "url": "https://watchmojo-1-gb.lg.wurl.tv/playlist.m3u8",
+        "name": "Watchmojo"
+    },
+        {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-lggb/playlist.m3u8",
+        "name": "Wedo Big Docs"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioromance-vizious/playlist.m3u8",
+        "name": "Summer Rom-Coms"
+    },
+    {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8",
+        "name": "ACTION!"
+    },
+    {
+        "url": "https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8",
+        "name": "Miramax Movies"
+    },
+    {
+        "url": "https://linear-758.frequency.stream/dist/tcltv/758/hls/master/playlist.m3u8",
+        "name": "National Lampoon"
+    },
+    {
+        "url": "https://linear-851.frequency.stream/dist/tcltv/851/hls/master/playlist.m3u8",
+        "name": "CW Gold"
+    },
+    {
+        "url": "https://langleyproductions-cops-2-ca.tcl.wurl.tv/playlist.m3u8",
+        "name": "Cops"
+    },
+    {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8",
+        "name": "MovieDome UK"
+    },
+    {
+        "url": "https://distributionsjustepourrire-justforlaughsgags-1-au.tcl.wurl.tv/playlist.m3u8",
+        "name": "Just for Laughs Gags"
+    },
+    {
+        "url": "https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8",
+        "name": "AMC Stories"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchefuk-lgca/playlist.m3u8",
+        "name": "Master Chef UK"
+    },
+    {
+        "url": "https://xite-germany-lg.amagi.tv/playlist.m3u8",
+        "name": "Xite"
+    },
+    {
+        "url": "https://xite-hitsuk-lg.amagi.tv/playlist.m3u8",
+        "name": "Xite Hits"
+    },
+    {
+        "url": "https://xite-rockoneu-lg.amagi.tv/playlist.m3u8",
+        "name": "Xite Rock"
+    },
+    {
+        "url": "https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8",
+        "name": "UnXplained Zone"
+    },
+       {
+        "url": "https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8",
+        "name": "Alien Nation"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-familyfeudvizio-vizious/playlist.m3u8",
+        "name": "Family Feud Classic"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8",
+        "name": "Deal or No Deal"
+    },
+    {
+        "url": "https://7fc4fb3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fS3JpbWluYWxfSExT/playlist.m3u8",
+        "name": "Crimes Cults Killers"
+    },
+    {
+        "url": "https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8",
+        "name": "Crime 360"
+    },
+    {
+        "url": "https://ca4b62de2f4340fbb82d814c883cd008.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_ClassicDoctorWho/playlist.m3u8",
+        "name": "Doctor Who Classic"
+    },
+    {
+        "url": "https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8",
+        "name": "Scares By Shudder"
+    },
+    {
+        "url": "https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8",
+        "name": "Movie Favorites"
+    },
+    {
+        "url": "https://linear-867.frequency.stream/dist/tcltv/867/hls/master/playlist.m3u8",
+        "name": "BET x Tyler Perry Comedy"
+    },
+    {
+        "url": "https://linear-866.frequency.stream/dist/tcltv/866/hls/master/playlist.m3u8",
+        "name": "BET x Tyler Perry Drama"
+    },
+    {
+        "url": "https://bec-trailersfromhell-1-us.tcl.wurl.tv/playlist.m3u8",
+        "name": "Trailers from Hell"
+    },
+    {
+        "url": "https://funny-or-die-1-us.tcl.wurl.tv/playlist.m3u8",
+        "name": "Funny or Die"
+    },
+    {
+        "url": "https://linear-850.frequency.stream/dist/tcltv/850/hls/master/playlist.m3u8",
+        "name": "CW Forever"
+    },
+    {
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00520-tcl-screamin-tcl/playlist.m3u8",
+        "name": "Screamin"
+    },
+    {
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8",
+        "name": "Davinci"
+    },
+    {
+        "url": "https://filmzie-filmzie-3-us.tcl.wurl.tv/playlist.m3u8",
+        "name": "Filmzie"
+    },
+    {
+        "url": "https://gravitas-movies-us.tcl.wurl.tv/playlist.m3u8",
+        "name": "Gravitas Movies"
+    },
+    {
+        "url": "https://maverick-maverick-black-cinema-2-us.tcl.wurl.tv/playlist.m3u8",
+        "name": "Maverick Black Cinema"
+    },
+    {
+        "url": "https://videoelephantlimited-beyondparanormal-1-us.tcltvplus.wurl.tv/playlist.m3u8",
+        "name": "Beyond Paranormal"
+    }
+]
