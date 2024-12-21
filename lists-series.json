@@ -1,0 +1,44 @@
+{
+  "lists": [
+    {
+      "title": "Best Fantasy of the 2020s",
+      "description": "The 2020s saw a resurgence of imaginative worlds, fantasy adventures, and escapist storytelling, blending myth, magic, and the supernatural.",
+      "posts": ["TENET", "THE GREEN KNIGHT", "JUNGLE CRUISE", "NOPE", "AD ASTRA", "BLADE RUNNER: BLACK LOTUS", "THE KING'S MAN", "WANDAVISION", "LOVE AND MONSTERS", "SPIDER-MAN: NO WAY HOME", "FREE GUY", "MIRROR", "THE PLATFORM", "RED RIDING HOOD", "MANKIND", "ARMY OF THE DEAD", "THE BOB'S BURGERS MOVIE", "THE BOOK OF BOBBA FETT", "F9"]
+    },
+    {
+      "title": "Best Fantasy of the 2010s",
+      "description": "The 2010s featured rich fantasy worlds, blending complex storytelling with imaginative, fantastical elements.",
+      "posts": ["GAME OF THRONES", "PRINCESS MONONOKE", "DUNE", "HEREDITARY", "THE LODGE", "THE FANTASTIC MR. FOX", "MOONRISE KINGDOM", "THE WITCH", "THE CONJURING", "MIDNIGHT MASS", "CRIMSON PEAK", "MIDSOMMAR", "VALERIAN AND THE CITY OF A THOUSAND PLANETS", "SILENT HILL", "TITANE", "A QUIET PLACE", "BURNING", "EVERYTHING EVERYWHERE ALL AT ONCE", "TÁR"]
+    },
+    {
+      "title": "Best Fantasy of the 2000s",
+      "description": "The 2000s delivered visually stunning fantasy films, rich in imaginative storytelling and epic adventures.",
+      "posts": ["THE LORD OF THE RINGS", "HARRY POTTER AND THE PRISONER OF AZKABAN", "NARNIA: THE LION, THE WITCH AND THE WARDROBE", "PAN'S LABYRINTH", "TROJAN", "STARDUST", "LORD OF WAR", "BRAVE", "PIRATES OF THE CARIBBEAN", "THE CHRONICLES OF NARNIA", "A SERIES OF UNFORTUNATE EVENTS", "CHARLIE AND THE CHOCOLATE FACTORY", "THE BLACK PEARL", "PRINCESS MONONOKE", "THE TIME MACHINE", "THE SECRET OF NIMH", "THE NEVERENDING STORY", "JUMANJI", "ZATHURA"]
+    },
+    {
+      "title": "Best Fantasy of the 1990s",
+      "description": "The 1990s brought a wave of fantasy classics, featuring imaginative worlds, magical quests, and unforgettable adventures.",
+      "posts": ["THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING", "HARRY POTTER AND THE SORCERER'S STONE", "JURASSIC PARK", "THE PRINCESS BRIDE", "ALICE IN WONDERLAND", "THE DARK CRYSTAL", "LABYRINTH", "BEAUTY AND THE BEAST", "THE MUPPETS CHRISTMAS CAROL", "HOOK", "HOOK", "ALADDIN", "SPACE JAM", "CASPER", "THE ADDAMS FAMILY", "FERNGULLY", "A LITTLE PRINCESS", "HONEY, I SHRUNK THE KIDS", "THE EMPIRE STRIKES BACK", "THE WITCHES"]
+    },
+    {
+      "title": "Best Fantasy of the 1980s",
+      "description": "The 1980s were defined by imaginative fantasy adventures, from mythic quests to fantastical creatures and magical realms.",
+      "posts": ["THE DARK CRYSTAL", "LABYRINTH", "THE NEVERENDING STORY", "FANTASIA", "CONAN THE BARBARIAN", "THE PRINCESS BRIDE", "THE WIZARD OF OZ", "ALADDIN", "THE NEVERENDING STORY", "THE EMPIRE STRIKES BACK", "THE LAST UNICORN", "THE BLACK HOLE", "TIME BANDITS", "THE DARK TOWER", "WILLOW", "KRULL", "THE WRAITH", "LEGEND", "MONKEY ISLAND", "THE RETURN OF JAFAR"]
+    },
+    {
+      "title": "Best Fantasy of the 1970s",
+      "description": "The 1970s were a golden era for imaginative, psychedelic fantasy, blending myth and reality in unforgettable adventures.",
+      "posts": ["JIM HENSON'S THE DARK CRYSTAL", "THE WIZARD OF OZ", "STAR WARS", "WILLOW", "THE EMPIRE STRIKES BACK", "THE THIEF OF BAGDAD", "CONAN THE DESTROYER", "THE LAST UNICORN", "TIME BANDITS", "THE BLACK HOLE", "ERAGON", "THE SWORD AND THE SORCERER", "THE LAND THAT TIME FORGOT", "WIZARD'S DYNASTY", "THE AMAZING PANDA ADVENTURE", "JASON AND THE ARGONAUTS", "CLASH OF THE TITANS", "MUPPET TREASURE ISLAND", "FLASH GORDON", "ZARDOZ"]
+    },
+    {
+      "title": "Best Fantasy of the 1960s",
+      "description": "The 1960s brought surreal and psychedelic fantasy, blending mythology, science fiction, and whimsical storytelling.",
+      "posts": ["2001: A SPACE ODYSSEY", "WIZARDS", "DR. STRANGELOVE", "THE VALLEY OF GWANGI", "FANTASIA", "THE RED PONY", "THE PRINCESS AND THE COW", "THE JUNGLE BOOK", "CIMARRON KID", "THE SAND PEBBLES", "THE GREEN HORNET", "THE LEGO MOVIE", "IT'S A MAD, MAD, MAD, MAD WORLD", "ROBIN HOOD", "THE PRINCESS WHO FELL FROM THE SKY", "JASON AND THE ARGONAUTS", "THE 7TH VOYAGE OF SINBAD", "THE 10TH PLANET", "A TOWN CALLED BASTARD", "THE TROUBLE WITH HARRY"]
+    },
+    {
+      "title": "Best Fantasy of the 1950s",
+      "description": "The 1950s paved the way for classic fantasy with mythological tales, sword and sorcery adventures, and futuristic imaginings.",
+      "posts": ["THE TEN COMMANDMENTS", "THE BLACK SCORPION", "THE CREATURE FROM THE BLACK LAGOON", "20,000 LEAGUES UNDER THE SEA", "DRACULA", "FRANKENSTEIN", "THE LAST MAN ON EARTH", "GODZILLA", "THE MOLE PEOPLE", "THE BLOB", "ROBINSON CRUSOE ON MARS", "THE DAY THE EARTH STOOD STILL", "BRIDE OF FRANKENSTEIN", "INVADERS FROM MARS", "MONSTER ON THE CAMPUS", "THE BEAST FROM 20,000 FATHOMS", "JOURNEY TO THE CENTER OF THE EARTH", "THE 7TH VOYAGE OF SINBAD", "THE VALLEY OF GWANGI", "THE HUNCHBACK OF NOTRE DAME"]
+    }
+  ]
+}
