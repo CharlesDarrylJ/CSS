@@ -3,197 +3,77 @@
     {
       "title": "Best Sci-Fi of the 2000s",
       "description": "The 2000s saw the rise of visually groundbreaking sci-fi, exploring themes of humanity, artificial intelligence, and futuristic technologies.",
-      "posts": ["BLADE RUNNER", "THE MATRIX", "INCEPTION", "INTERSTELLAR", "MOON", "DISTRICT 9", "SUNSHINE", "PRIMER", "A.I. ARTIFICIAL INTELLIGENCE"]
+      "posts": ["BLADE RUNNER", "THE MATRIX", "INCEPTION", "INTERSTELLAR", "MOON", "DISTRICT 9", "SUNSHINE", "PRIMER", "A.I. ARTIFICIAL INTELLIGENCE", "THE THING", "BATTLESTAR GALACTICA", "DONNIE DARKO", "ETERNAL SUNSHINE OF THE SPOTLESS MIND", "EVENT HORIZON", "PITCH BLACK", "THE FIFTH ELEMENT", "SERENITY", "GATTACA", "BLADE", "THE TERMINATOR", "THE ADJUSTMENT BUREAU"]
     },
     {
       "title": "Best Sci-Fi of the 2010s",
       "description": "The 2010s brought more experimental storytelling, thought-provoking sci-fi narratives, and explorations of identity and existence.",
-      "posts": ["EX MACHINA", "ANOMALISA", "ARRIVAL", "DUNE", "MAD MAX: FURY ROAD", "A QUIET PLACE", "PRISONERS", "UNDER THE SKIN", "APOLLO 18", "HER"]
+      "posts": ["EX MACHINA", "ANOMALISA", "ARRIVAL", "DUNE", "MAD MAX: FURY ROAD", "A QUIET PLACE", "PRISONERS", "UNDER THE SKIN", "APOLLO 18", "HER", "CLOVERFIELD", "MOONRISE KINGDOM", "LOOPER", "THE HOST", "MORNING GLORY", "TINKER TAILOR SOLDIER SPY", "THE VOID", "STOKER", "FANTASTIC MR. FOX", "Z FOR ZACHARIAH"]
     },
     {
       "title": "Best Sci-Fi of the 2020s",
       "description": "The 2020s are defined by sci-fi tales that explore dystopian futures, climate change, and AI's impact on humanity.",
-      "posts": ["TENET", "BLADE RUNNER: BLACK LOTUS", "WANDAVISION", "FREE GUY", "LOVE AND MONSTERS", "MIRROR", "ALIEN: COVENANT", "AD ASTRA", "MANKIND", "OATS STUDIO"]
+      "posts": ["TENET", "BLADE RUNNER: BLACK LOTUS", "WANDAVISION", "FREE GUY", "LOVE AND MONSTERS", "MIRROR", "ALIEN: COVENANT", "AD ASTRA", "MANKIND", "OATS STUDIO", "ANIMATION: ARLO THE ALLIGATOR BOY", "FOUND FOOTAGE: THE BURNING", "IN THE EARTH", "THE GREEN KNIGHT", "NIGHTMARE ALLEY", "RED RIDING HOOD", "THE OUTPOST", "NOPE", "THE PLATFORM", "THE BOOK OF BOBBA FETT"]
     },
     {
       "title": "Best Action of the 2000s",
       "description": "The 2000s were a golden era for action films, characterized by intense sequences, larger-than-life heroes, and groundbreaking stunts that set new benchmarks for the genre.",
-      "posts": ["THE BOURNE IDENTITY", "MATRIX RELOADED", "GLADIATOR", "TERMINATOR 2", "DIE HARD 4", "PAN'S LABYRINTH", "FURY ROAD", "KILL BILL", "CROUCHING TIGER, HIDDEN DRAGON", "THE RAID"]
+      "posts": ["THE BOURNE IDENTITY", "MATRIX RELOADED", "GLADIATOR", "TERMINATOR 2", "DIE HARD 4", "PAN'S LABYRINTH", "FURY ROAD", "KILL BILL", "CROUCHING TIGER, HIDDEN DRAGON", "THE RAID", "THE DARK KNIGHT", "CRANK", "BLADE 2", "EQUILIBRIUM", "REIGN OF FIRE", "G.I. JOE", "RIDDICK", "THE TRANSPORTER", "BLACK HAWK DOWN", "KING ARTHUR"]
     },
     {
       "title": "Best Action of the 2010s",
       "description": "The 2010s brought a new wave of action-packed, character-driven stories featuring intense choreography, stunning visual effects, and emotionally resonant narratives.",
-      "posts": ["JOHN WICK", "MAD MAX: FURY ROAD", "MISSION: IMPOSSIBLE – FALLOUT", "DEADPOOL", "LOGAN", "THE DARK KNIGHT RISES", "DUNKIRK", "TROY", "PACIFIC RIM", "BABY DRIVER"]
+      "posts": ["JOHN WICK", "MAD MAX: FURY ROAD", "MISSION: IMPOSSIBLE – FALLOUT", "DEADPOOL", "LOGAN", "THE DARK KNIGHT RISES", "DUNKIRK", "TROY", "PACIFIC RIM", "BABY DRIVER", "THE RAID 2", "CHRISTOPHER NOLAN'S DUNKIRK", "THOR: RAGNAROK", "KUNG FURY", "DRIVE", "THE EXPENDABLES", "HOBBS & SHAW", "SPY", "THE BAD BOYS", "EDGE OF TOMORROW"]
     },
     {
       "title": "Best Action of the 2020s",
       "description": "In the 2020s, action films have become more daring, blending genres, and offering high-intensity experiences with innovative storytelling techniques.",
-      "posts": ["F9", "TENET", "NOBODY", "FAST & FURIOUS 9", "THE BOB'S BURGERS MOVIE", "BULLET TRAIN", "KUNG FU PANDA 3", "BLACK PANTHER", "SHAZAM!", "SPIDER-MAN: NO WAY HOME"]
+      "posts": ["F9", "TENET", "NOBODY", "FAST & FURIOUS 9", "THE BOB'S BURGERS MOVIE", "BULLET TRAIN", "KUNG FU PANDA 3", "BLACK PANTHER", "SHAZAM!", "SPIDER-MAN: NO WAY HOME", "VENOM: LET THERE BE CARNAGE", "FREE GUY", "RED NOTICE", "THE KING'S MAN", "THE BAD GUYS", "JUNGLE CRUISE", "ARMY OF THE DEAD", "GUNPOWDER MILK", "AMERICAN ASSASSIN"]
     },
     {
       "title": "Best Horror of the 2000s",
       "description": "The 2000s introduced a wave of psychological and supernatural horror that disturbed and fascinated audiences, setting the stage for future chills.",
-      "posts": ["THE RING", "28 DAYS LATER", "SAW", "THE OTHERS", "PARANORMAL ACTIVITY", "THE BLAIR WITCH PROJECT", "HOSTEL", "THE DESCENT", "A NIGHTMARE ON ELM STREET", "PAN'S LABYRINTH"]
+      "posts": ["THE RING", "28 DAYS LATER", "SAW", "THE OTHERS", "PARANORMAL ACTIVITY", "THE BLAIR WITCH PROJECT", "HOSTEL", "THE DESCENT", "A NIGHTMARE ON ELM STREET", "PAN'S LABYRINTH", "INSIDIOUS", "SCREAM 4", "1408", "CREEP", "DON'T BREATHE", "SILENT HILL", "THE STRANGERS", "MAMA", "THE WARD"]
     },
     {
       "title": "Best Horror of the 2010s",
       "description": "The 2010s were a transformative decade for horror, blending psychological tension, social commentary, and unforgettable scares.",
-      "posts": ["HEREDITARY", "GET OUT", "IT", "A QUIET PLACE", "THE CONJURING", "MIDSOMMAR", "THE WITCH", "INSIDIOUS", "HUSH", "BLAIR WITCH"]
+      "posts": ["HEREDITARY", "GET OUT", "IT", "A QUIET PLACE", "THE CONJURING", "MIDSOMMAR", "THE WITCH", "INSIDIOUS", "HUSH", "BLAIR WITCH", "CRIMSON PEAK", "AHS: FREAK SHOW", "IT FOLLOWS", "THE VOID", "SINISTER", "PET SEMATARY", "THE LODGE", "BURNING", "A QUIET PLACE 2"]
     },
     {
       "title": "Best Horror of the 2020s",
       "description": "The 2020s have seen a resurgence of horror with more experimental, elevated, and socially relevant narratives.",
-      "posts": ["BARBARIAN", "TI WEST'S X", "RELIC", "THE NIGHT HOUSE", "SILENT HILL", "TITANE", "PEARL", "CANDYMAN", "THE BLACK PHONE", "THE INNOCENTS"]
+      "posts": ["BARBARIAN", "TI WEST'S X", "RELIC", "THE NIGHT HOUSE", "SILENT HILL", "TITANE", "PEARL", "CANDYMAN", "THE BLACK PHONE", "THE INNOCENTS", "MARIAH CAREY'S A CHRISTMAS NIGHTMARE", "NO EXIT", "SCREAM", "MIDSOMMAR'S PSYCHOPATHS", "SAINT MAUD", "THE EMPTY MAN", "MIDNIGHT MASS", "TERROR", "WATCHER", "WILLOW"]
     },
     {
       "title": "Best Drama of the 2000s",
       "description": "The 2000s were a golden era for character-driven dramas, focusing on complex narratives and deep emotional exploration.",
-      "posts": ["THE GODFATHER", "FORREST GUMP", "THE SHAWSHANK REDEMPTION", "AMERICAN BEAUTY", "MILLION DOLLAR BABY", "THERE WILL BE BLOOD", "GLADIATOR", "NO COUNTRY FOR OLD MEN", "THE SOCIAL NETWORK", "BROKEBACK MOUNTAIN"]
+      "posts": ["THE GODFATHER", "FORREST GUMP", "THE SHAWSHANK REDEMPTION", "AMERICAN BEAUTY", "MILLION DOLLAR BABY", "THERE WILL BE BLOOD", "GLADIATOR", "NO COUNTRY FOR OLD MEN", "THE SOCIAL NETWORK", "BROKEBACK MOUNTAIN", "REQUIEM FOR A DREAM", "LIFE IS BEAUTIFUL", "MUNICH", "THE KING'S SPEECH", "THE FATHER", "BRAVEHEART", "THE IMPOSSIBLE", "LION", "A BEAUTIFUL MIND"]
     },
     {
       "title": "Best Drama of the 2010s",
       "description": "The 2010s featured powerful, introspective dramas that delved into themes of identity, society, and human relationships.",
-      "posts": ["12 YEARS A SLAVE", "MOONLIGHT", "LA LA LAND", "THE FIGHT CLUB", "THE REVENANT", "ROMA", "PARASITE", "JOKER", "THE IRISHMAN", "WAVES"]
+      "posts": ["12 YEARS A SLAVE", "MOONLIGHT", "LA LA LAND", "THE FIGHT CLUB", "THE REVENANT", "ROMA", "PARASITE", "JOKER", "THE IRISHMAN", "WAVES", "CALL ME BY YOUR NAME", "A STAR IS BORN", "BEAUTIFUL BOY", "THE BAREFOOT EMPEROR", "IT'S A SIN", "A24'S MIDSOMMAR", "THE TRIAL OF THE CHICAGO 7", "1917", "THE LAUNDROMAT"]
     },
     {
       "title": "Best Drama of the 2020s",
       "description": "The 2020s have emphasized social issues, identity, and personal struggles, blending realism with artistic storytelling.",
-      "posts": ["THE FATHER", "MINARI", "DUNE", "SPENCER", "TITANE", "A24'S EVERYTHING EVERYWHERE ALL AT ONCE", "TÁR", "WOMEN TALKING", "BANSHEES OF INISHERIN", "BENEDETTA"]
+      "posts": ["THE FATHER", "MINARI", "DUNE", "SPENCER", "TITANE", "A24'S EVERYTHING EVERYWHERE ALL AT ONCE", "TÁR", "WOMEN TALKING", "BANSHEES OF INISHERIN", "BENEDETTA", "DELICATESSEN", "THE LIGHTHOUSE", "C'MON C'MON", "BELFAST", "THE WHITE TIGER", "CODA", "SUMMER OF 85", "I'M THINKING OF ENDING THINGS", "THE FABELMANS"]
     },
     {
       "title": "Best Comedy of the 2000s",
-      "description": "The 2000s brought hilarious, often absurd comedies that defined the genre with memorable characters and quotable moments.",
-      "posts": ["SUPERBAD", "ANCHORMAN", "THE 40-YEAR-OLD VIRGIN", "BRIDESMAIDS", "TROPIC THUNDER", "STEP BROTHERS", "DUMB & DUMBER", "MEAN GIRLS", "PINEAPPLE EXPRESS", "THE BIG LEBOWSKI"]
+      "description": "The 2000s brought hilarious, often absurd comedies that defined the era, blending satire, gross-out humor, and heartfelt storytelling.",
+      "posts": ["SUPERBAD", "THE 40-YEAR-OLD VIRGIN", "ANCHORMAN", "BORAT", "STEP BROTHERS", "AMERICAN PIE", "TROPIC THUNDER", "ADVENTURELAND", "PINEAPPLE EXPRESS", "HAROLD & KUMAR GO TO WHITE CASTLE", "BRIDESMAIDS", "DODGEBALL", "THE HANGOVER", "THE LADY IN THE VAN", "ROLE MODELS", "EVAN ALMIGHTY", "SCHOOL OF ROCK", "THE DUTCHESS", "KNIGHT AND DAY"]
     },
     {
       "title": "Best Comedy of the 2010s",
-      "description": "The 2010s showcased witty, character-driven comedies that blended humor with heart and memorable storytelling.",
-      "posts": ["THE OFFICE", "PARKS & REC", "BROOKLYN NINE-NINE", "30 ROCK", "IT'S ALWAYS SUNNY", "THE SIMPSONS", "FLEABAG", "BROAD CITY", "THE GOOD PLACE", "BLACK MIRROR"]
+      "description": "The 2010s offered fresh comedic takes on everyday life, societal norms, and personal journeys, blending wit and satire.",
+      "posts": ["THE LEGO MOVIE", "PADDINGTON", "THE GRAND BUDAPEST HOTEL", "TED", "SISTERS", "WHAT WE DO IN THE SHADOWS", "BRIDESMAIDS", "JOJO RABBIT", "BIRDS OF PREY", "GOOD BOYS", "THE WOLVERINE", "SHAZAM!", "BAD SANTA 2", "DEADPOOL 2", "TOY STORY 3", "FREE GUY", "THE HUNGER GAMES", "SPY", "LA LA LAND", "JOKER"]
     },
     {
       "title": "Best Comedy of the 2020s",
-      "description": "The 2020s feature diverse, genre-bending comedies that mix satire, absurdity, and socially relevant themes.",
-      "posts": ["THE MANDALORIAN", "WANDAVISION", "DERRY GIRLS", "HACKS", "BARRY", "THE GREAT", "RESERVATION DOGS", "LORE", "OUR FLAG MEANS DEATH", "RUSSIAN DOLL"]
-    },
-    {
-      "title": "Best Fantasy of the 2000s",
-      "description": "The 2000s brought fantasy to life with epic worlds, magical adventures, and unforgettable stories that captured imaginations.",
-      "posts": ["LORD OF THE RINGS", "HARRY POTTER", "PRINCESS MONONOKE", "NARNIA", "STARDUST", "TROLL HUNTER", "BRAVE", "THE CRIMSON PEAK", "THE PRINCESS BRIDE", "SPIRITED AWAY"]
-    },
-    {
-      "title": "Best Fantasy of the 2010s",
-      "description": "The 2010s continued to explore fantastical realms, blending myth, adventure, and high-stakes journeys.",
-      "posts": ["GAME OF THRONES", "THE MANDALORIAN", "THE WITCHER", "CARNIVAL ROW", "VIKINGS", "PRINCESS MONONOKE", "BRAVE", "TROLL HUNTER", "STARDUST", "HOWL'S MOVING CASTLE"]
-    },
-    {
-      "title": "Best Fantasy of the 2020s",
-      "description": "The 2020s have introduced ambitious fantasy series and films that combine complex worlds and character-driven narratives.",
-      "posts": ["WHEEL OF TIME", "THE DARK CRYSTAL", "THE CRIMSON PEAK", "THE WITCHER", "LOTR: THE RINGS OF POWER", "CIRCE", "ARCANE", "THE ETERNAL KNIGHTS", "LEGEND OF KORRA", "PRINCESS MONONOKE"]
-    },
-    {
-      "title": "Best Thriller of the 2000s",
-      "description": "The 2000s were marked by tension-filled, suspenseful stories with unpredictable twists and psychological depth.",
-      "posts": ["SE7EN", "THE SIXTH SENSE", "MEMENTO", "FIGHT CLUB", "ZODIAC", "THE BOURNE IDENTITY", "MEMORY", "MILLENNIUM", "THE VANISHING", "PAN'S LABYRINTH"]
-    },
-    {
-      "title": "Best Thriller of the 2010s",
-      "description": "The 2010s delivered more cerebral and intense thrillers, exploring psychological depth and social concerns.",
-      "posts": ["INCEPTION", "PRISONERS", "BIRD BOX", "TINKER TAILOR SOLDIER SPY", "THE GIRL WITH THE DRAGON TATTOO", "SICARIO", "THE WITCH", "MIDSOMMAR", "NO COUNTRY FOR OLD MEN", "PAN'S LABYRINTH"]
-    },
-    {
-      "title": "Best Thriller of the 2020s",
-      "description": "The 2020s are characterized by experimental, high-intensity thrillers that blur the line between fiction and reality.",
-      "posts": ["TENET", "THE NIGHT HOUSE", "BENEDETTA", "MEN", "RED LIGHTS", "THE BLACK PHONE", "TITANE", "CANDYMAN", "A24'S EVERYTHING EVERYWHERE ALL AT ONCE", "SPENCER"]
-    },
-    {
-      "title": "Best Crime of the 2000s",
-      "description": "The 2000s delivered gritty crime dramas with complex characters, thrilling plot twists, and dark, urban atmospheres.",
-      "posts": ["THE GODFATHER", "THE DARK KNIGHT", "NO COUNTRY FOR OLD MEN", "TRAINING DAY", "THE WIRE", "THE UNTOUCHABLES", "PRISONERS", "INCEPTION", "L.A. CONFIDENTIAL", "THE DEPARTED"]
-    },
-    {
-      "title": "Best Crime of the 2010s",
-      "description": "The 2010s were defined by morally complex characters and crime stories that blurred the lines between good and evil.",
-      "posts": ["BREAKING BAD", "THE WIRE", "TRUE DETECTIVE", "KILLING EVE", "NO COUNTRY FOR OLD MEN", "THE DEPARTED", "FARGO", "KILL BILL", "THE DARK KNIGHT", "INCEPTION"]
-    },
-    {
-      "title": "Best Crime of the 2020s",
-      "description": "The 2020s explore crime narratives with a focus on societal issues, identity, and the impact of technology on criminal activities.",
-      "posts": ["THE SUICIDE SQUAD", "TRUE DETECTIVE", "NARCOS", "SEVERANCE", "MR. ROBOT", "THE DARK KNIGHT", "INCEPTION", "THE WIRE", "BREAKING BAD", "TRUE CRIME"]
-    },
-    {
-      "title": "Best History of the 2000s",
-      "description": "The 2000s saw a surge in historical dramas that brought real-life events to the screen, offering deep explorations of past eras.",
-      "posts": ["GLADIATOR", "THE LAST SAMURAI", "AMERICAN SNIPER", "BRAVEHEART", "THE PATRIOT", "SCHINDLER'S LIST", "LION", "FROST/NIXON", "A BEAUTIFUL MIND", "MUNICH"]
-    },
-    {
-      "title": "Best History of the 2010s",
-      "description": "The 2010s focused on historical dramas that examined themes of human resilience, conflict, and cultural identity.",
-      "posts": ["1917", "THE FATHER", "CHILDREN OF MEN", "ARGO", "12 YEARS A SLAVE", "THE REVENANT", "LINCOLN", "WATER FOR ELEPHANTS", "THE IRISHMAN", "WAVES"]
-    },
-    {
-      "title": "Best History of the 2020s",
-      "description": "The 2020s continue to explore historical themes, blending drama with contemporary social concerns and identity narratives.",
-      "posts": ["TÁR", "THE FATHER", "MANK", "BENEDETTA", "SPENCER", "RELIC", "THE BLACK PHONE", "THE NIGHT HOUSE", "MEMORY", "WOMEN TALKING"]
-    },
-    {
-      "title": "Best Biography of the 2000s",
-      "description": "The 2000s delivered biographies that explored the lives of historical figures, offering deep dives into the human experience.",
-      "posts": ["THE FATHER", "A BEAUTIFUL MIND", "ALI", "SCHINDLER'S LIST", "THE KING'S SPEECH", "LINCOLN", "THE SOCIAL NETWORK", "BOHEMIAN RHAPSODY", "THE LAST SAMURAI", "AMERICAN SNIPER"]
-    },
-    {
-      "title": "Best Biography of the 2010s",
-      "description": "The 2010s featured biographical films that examined identity, personal struggles, and the pursuit of truth.",
-      "posts": ["BOHEMIAN RHAPSODY", "AMERICAN SNIPER", "THE SOCIAL NETWORK", "BOHEMIAN RHAPSODY", "THE FATHER", "LINCOLN", "SCHINDLER'S LIST", "THE KING'S SPEECH", "A BEAUTIFUL MIND", "THE IRISHMAN"]
-    },
-    {
-      "title": "Best Biography of the 2020s",
-      "description": "The 2020s have focused on biographical narratives that explore themes of identity, resilience, and societal influence.",
-      "posts": ["THE FATHER", "TÁR", "SPENCER", "MEMORY", "RELIC", "MANK", "THE NIGHT HOUSE", "BENEDETTA", "THE BLACK PHONE", "THE SUICIDE SQUAD"]
-    },
-    {
-      "title": "Best Family of the 2000s",
-      "description": "The 2000s were filled with heartwarming family films, blending humor, adventure, and life lessons.",
-      "posts": ["FINDING NEMO", "MONSTERS INC.", "SHREK", "TOY STORY 3", "THE INCREDIBLES", "HARRY POTTER", "BRAVE", "CHICKEN RUN", "THE PRINCESS BRIDE", "STARDUST"]
-    },
-    {
-      "title": "Best Family of the 2010s",
-      "description": "The 2010s showcased family-friendly films with imaginative worlds and heartwarming tales that brought families together.",
-      "posts": ["FROZEN", "TOY STORY 4", "MOANA", "ZOOTOPIA", "RAYA AND THE LAST DRAGON", "HOW TO TRAIN YOUR DRAGON", "INSIDE OUT", "COCO", "THE LEGO MOVIE", "WALL-E"]
-    },
-    {
-      "title": "Best Family of the 2020s",
-      "description": "The 2020s continue to deliver imaginative, inclusive, and heartwarming family stories that inspire and entertain.",
-      "posts": ["LUCA", "RAYA AND THE LAST DRAGON", "MOANA", "FROZEN 2", "ONWARD", "INCREDIBLES 2", "MINIONS", "SING", "SPIRITED AWAY", "BRAVE"]
-    },
-    {
-      "title": "Best Music of the 2000s",
-      "description": "The 2000s featured iconic musical films, blending storytelling with unforgettable soundtracks.",
-      "posts": ["8 MILE", "THE WIZARD OF OZ", "MAMMA MIA!", "LES MISÉRABLES", "THE SOUND OF MUSIC", "BOHEMIAN RHAPSODY", "A STAR IS BORN", "THE FATHER", "SING STREET", "SING"]
-    },
-    {
-      "title": "Best Music of the 2010s",
-      "description": "The 2010s brought critically acclaimed musicals with powerful performances and memorable music.",
-      "posts": ["LA LA LAND", "A STAR IS BORN", "LES MISÉRABLES", "BOHEMIAN RHAPSODY", "SING STREET", "AQUAMAN", "FROZEN", "ONCE", "THE GREATEST SHOWMAN", "MOANA"]
-    },
-    {
-      "title": "Best Music of the 2020s",
-      "description": "The 2020s are marked by musical films that blend genres, focusing on emotional storytelling and unforgettable soundtracks.",
-      "posts": ["A STAR IS BORN", "SING", "LES MISÉRABLES", "THE GREATEST SHOWMAN", "MOANA", "FROZEN", "ONCE", "THE GREATEST SHOWMAN", "FROZEN 2", "LUCA"]
-    },
-    {
-      "title": "Best Western of the 2000s",
-      "description": "The 2000s reinvigorated the Western genre with gritty tales of revenge, justice, and survival.",
-      "posts": ["3:10 TO YUMA", "THE REVENANT", "TRUE GRIT", "NO COUNTRY FOR OLD MEN", "BROKEBACK MOUNTAIN", "THE HATEFUL EIGHT", "THE TOWN", "INCEPTION", "L.A. CONFIDENTIAL", "TARANTINO'S"]
-    },
-    {
-      "title": "Best Western of the 2010s",
-      "description": "The 2010s brought modern takes on the Western genre, blending historical narratives with contemporary themes.",
-      "posts": ["THE BALLAD OF BUSTER SCRUGGS", "TRUE GRIT", "THE REVENANT", "3:10 TO YUMA", "THE HATEFUL EIGHT", "BONE TOMAHAWK", "THE TOWN", "INCEPTION", "L.A. CONFIDENTIAL", "TARANTINO'S"]
-    },
-    {
-      "title": "Best Western of the 2020s",
-      "description": "The 2020s feature gritty, character-driven Westerns that explore themes of identity, survival, and justice.",
-      "posts": ["TÁR", "BENEDETTA", "SPENCER", "THE NIGHT HOUSE", "MEMORY", "MANK", "THE SUICIDE SQUAD", "TRUE DETECTIVE", "NARCOS", "SEVERANCE"]
+      "description": "The 2020s continue to blend humor with commentary on modern issues, from identity to technology, with absurdity and charm.",
+      "posts": ["BARB AND STAR GO TO VISTA DEL MAR", "THE TRAIL OF THE SCREAMING FOREHEAD", "BROS", "WONDER WOMAN 1984", "GHOSTBUSTERS: AFTERLIFE", "SPIDER-MAN: NO WAY HOME", "FREE GUY", "NOPE", "DEADPOOL 3", "SHANG-CHI AND THE LEGEND OF THE TEN RINGS", "JUNGLE CRUISE", "THE BOB'S BURGERS MOVIE", "KUNG FU PANDA 3", "THE LEGO MOVIE 2", "THE KING'S MAN", "RED NOTICE", "THE MUPPETS", "MINIONS: THE RISE OF GRU", "THE ADDAMS FAMILY 2"]
     }
   ]
 }
