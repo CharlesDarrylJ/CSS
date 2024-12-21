@@ -1,0 +1,31 @@
+{
+    "lists": [
+        {
+            "title": "Top 10 Movies",
+            "description": "A list of my favorite top 10 movies.",
+            "posts": [
+                {
+                    "title": "Inception",
+                    "poster": "https://linktoimage.com/inception.jpg",
+                    "url": "https://yourblog.com/inception"
+                },
+                {
+                    "title": "The Dark Knight",
+                    "poster": "https://linktoimage.com/darkknight.jpg",
+                    "url": "https://yourblog.com/darkknight"
+                }
+            ]
+        },
+        {
+            "title": "Top 5 TV Shows",
+            "description": "A list of my favorite top 5 TV shows.",
+            "posts": [
+                {
+                    "title": "Breaking Bad",
+                    "poster": "https://linktoimage.com/breakingbad.jpg",
+                    "url": "https://yourblog.com/breakingbad"
+                }
+            ]
+        }
+    ]
+}
