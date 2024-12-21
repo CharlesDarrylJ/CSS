@@ -1,31 +1,14 @@
 {
-    "lists": [
-        {
-            "title": "Top 10 Movies",
-            "description": "A list of my favorite top 10 movies.",
-            "posts": [
-                {
-                    "title": "Inception",
-                    "poster": "https://images.theposterdb.com/prod/public/images/posters/optimized/movies/79931/4xRwxSDa62J5HmAJbzlgV4hEUyfKsmWsnPHSZVvS.webp",
-                    "url": "https://thestreamingroom.blogspot.com/2024/11/deadwood.html"
-                },
-                {
-                    "title": "The Dark Knight",
-                    "poster": "https://linktoimage.com/darkknight.jpg",
-                    "url": "https://yourblog.com/darkknight"
-                }
-            ]
-        },
-        {
-            "title": "Top 5 TV Shows",
-            "description": "A list of my favorite top 5 TV shows.",
-            "posts": [
-                {
-                    "title": "Breaking Bad",
-                    "poster": "https://linktoimage.com/breakingbad.jpg",
-                    "url": "https://yourblog.com/breakingbad"
-                }
-            ]
-        }
-    ]
+  "lists": [
+    {
+      "title": "Top 10 Movies",
+      "description": "My favorite top 10 movies of all time.",
+      "posts": ["DEXTER", "DEADWOOD", "30 ROCK"]
+    },
+    {
+      "title": "Best Comedy Shows",
+      "description": "Laugh-out-loud comedy shows you must watch.",
+      "posts": ["THE OFFICE", "GAME OF THRONES"]
+    }
+  ]
 }
