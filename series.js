@@ -1,33 +1,28 @@
-const apiKey = 'dea61e35';
+    const apiKey = 'dea61e35';
 
-function fetchMovieDetails(imdbID) {
-    const url = `https://www.omdbapi.com/?i=${imdbID}&apikey=${apiKey}`;
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            if (data.Response === "True") {
-                document.getElementById('movie-title').textContent = data.Title || 'N/A';
-                document.getElementById('movie-rating').textContent = `IMDb Rating: ${data.imdbRating || 'N/A'}`;
-                document.getElementById('movie-plot').textContent = `Plot: ${data.Plot || 'N/A'}`;
-                document.getElementById('release-date').textContent = `Release Date: ${data.Released || 'N/A'}`;
-                fetchSeasonsAndEpisodes(imdbID, data.totalSeasons);
-            } else {
-                console.error('Error fetching movie details:', data.Error);
-            }
-        })
-        .catch(error => console.error('Network error:', error));
-}
+    function fetchMovieDetails(imdbID) {
+        const url = `https://www.omdbapi.com/?i=${imdbID}&apikey=${apiKey}`;
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                if (data.Response === "True") {
+                    document.getElementById('movie-title').textContent = data.Title || 'N/A';
+                    document.getElementById('movie-rating').textContent = `IMDb Rating: ${data.imdbRating || 'N/A'}`;
+                    document.getElementById('movie-plot').textContent = `Plot: ${data.Plot || 'N/A'}`;
+                    document.getElementById('release-date').textContent = `Release Date: ${data.Released || 'N/A'}`;
+                    fetchSeasonsAndEpisodes(imdbID, data.totalSeasons);
+                } else {
+                    console.error('Error fetching movie details:', data.Error);
+                }
+            })
+            .catch(error => console.error('Network error:', error));
+    }
 
 async function fetchSeasonsAndEpisodes(imdbID, totalSeasons) {
     const container = document.getElementById('seasons-container');
-    const loader = document.createElement('div');
-    loader.id = 'loader';
-    loader.className = 'loading-spinner';
-    loader.textContent = 'Loading...';
-    container.appendChild(loader);
-
     const seasonData = [];
 
+    // Collect data for all seasons
     for (let season = 1; season <= totalSeasons; season++) {
         const url = `https://www.omdbapi.com/?i=${imdbID}&Season=${season}&apikey=${apiKey}`;
         try {
@@ -43,9 +38,6 @@ async function fetchSeasonsAndEpisodes(imdbID, totalSeasons) {
         }
     }
 
-    // Remove loader once all seasons are loaded
-    container.removeChild(loader);
-
     // Sort the season data by season number
     seasonData.sort((a, b) => a.season - b.season);
 
@@ -59,7 +51,7 @@ async function fetchSeasonsAndEpisodes(imdbID, totalSeasons) {
             const episodeItem = document.createElement('li');
             const episodeLink = document.createElement('a');
             episodeLink.href = '#';
-            episodeLink.textContent = `Episode ${episode.Episode} - ${episode.Title}`;
+            episodeLink.textContent = `Episode ${episode.Episode} - ${episode.Title}`; // Updated format
             episodeLink.onclick = () => {
                 showVideo(
                     `https://vidsrc.to/embed/tv/${imdbID}/${season}/${episode.Episode}`,
@@ -81,15 +73,16 @@ async function fetchSeasonsAndEpisodes(imdbID, totalSeasons) {
     });
 }
 
-function toggleSeason(seasonId) {
-    const season = document.getElementById(seasonId);
-    season.style.display = season.style.display === 'none' ? 'block' : 'none';
-}
 
-function showVideo(videoUrl, episodeName) {
-    document.getElementById('video-player').src = videoUrl;
-    document.getElementById('default-message').style.display = 'none';
-    document.getElementById('video-player').style.display = 'block';
-    document.getElementById('episode-title').style.display = 'block';
-    document.getElementById('current-episode').textContent = episodeName;
-}
+    function toggleSeason(seasonId) {
+        const season = document.getElementById(seasonId);
+        season.style.display = season.style.display === 'none' ? 'block' : 'none';
+    }
+
+    function showVideo(videoUrl, episodeName) {
+        document.getElementById('video-player').src = videoUrl;
+        document.getElementById('default-message').style.display = 'none';
+        document.getElementById('video-player').style.display = 'block';
+        document.getElementById('episode-title').style.display = 'block';
+        document.getElementById('current-episode').textContent = episodeName;
+    }
