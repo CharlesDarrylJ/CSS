@@ -1,14 +1,89 @@
 {
   "lists": [
     {
-      "title": "Top 10 Movies",
-      "description": "My favorite top 10 movies of all time.",
-      "posts": ["DEXTER", "DEADWOOD", "30 ROCK"]
+      "title": "Top 10 Sci-Fi Movies",
+      "description": "My top 10 favorite science fiction movies.",
+      "posts": ["INCEPTION", "BLADE RUNNER", "INTERSTELLAR", "THE MATRIX", "EX MACHINA", "ALIEN", "PRIMER", "2001: A SPACE ODYSSEY", "ANOMALISA", "LOOPER"]
     },
     {
-      "title": "Best Comedy Shows",
-      "description": "Laugh-out-loud comedy shows you must watch.",
-      "posts": ["THE OFFICE", "GAME OF THRONES"]
+      "title": "Best Action Movies",
+      "description": "Must-watch action-packed movies.",
+      "posts": ["MAD MAX: FURY ROAD", "JOHN WICK", "DIE HARD", "THE DARK KNIGHT", "GLADIATOR", "TERMINATOR 2", "THE RAID", "CASINO ROYALE", "THE BOURNE IDENTITY", "IRON MAN"]
+    },
+    {
+      "title": "Top 10 Horror Movies",
+      "description": "Chilling and terrifying horror movies.",
+      "posts": ["THE SHINING", "PSYCHO", "HEREDITARY", "A NIGHTMARE ON ELM STREET", "GET OUT", "THE CONJURING", "IT", "BLAIR WITCH PROJECT", "CARRIE", "ROSEMARY'S BABY"]
+    },
+    {
+      "title": "Best Drama Movies",
+      "description": "Top emotional and gripping drama films.",
+      "posts": ["THE GODFATHER", "FORREST GUMP", "THE SHAWSHANK REDEMPTION", "SCHINDLER'S LIST", "THE FIGHT CLUB", "12 ANGRY MEN", "THE SOCIAL NETWORK", "MOONLIGHT", "INCEPTION", "AMERICAN BEAUTY"]
+    },
+    {
+      "title": "Best Comedy Movies",
+      "description": "Laugh-out-loud comedy films you can't miss.",
+      "posts": ["THE BIG LEBOWSKI", "SUPERBAD", "GROUNDHOG DAY", "AIRPLANE!", "ANCHORMAN", "BRIDESMAIDS", "DUMB AND DUMBER", "THE 40-YEAR-OLD VIRGIN", "TED", "WEDDING CRASHERS"]
+    },
+    {
+      "title": "Top 10 Animated Movies",
+      "description": "Essential animated films for all ages.",
+      "posts": ["SPIRITED AWAY", "TOY STORY", "THE LION KING", "PANDORA", "FROZEN", "WALL-E", "UP", "MOANA", "RATATOUILLE", "HOWL'S MOVING CASTLE"]
+    },
+    {
+      "title": "Best Fantasy Movies",
+      "description": "Epic fantasy movies that take you to another world.",
+      "posts": ["LORD OF THE RINGS: THE FELLOWSHIP OF THE RING", "HARRY POTTER AND THE PRISONER OF AZKABAN", "THE HOBBIT: AN UNEXPECTED JOURNEY", "PRINCESS MONONOKE", "PAN'S LABYRINTH", "STARDUST", "THE CRIMSON PEAK", "BRAVE", "TROLL HUNTER", "THE PRINCESS BRIDE"]
+    },
+    {
+      "title": "Top 10 Thriller Movies",
+      "description": "Edge-of-your-seat thrillers that keep you guessing.",
+      "posts": ["SEVEN", "ZODIAC", "MEMENTO", "FIGHT CLUB", "THE SILENCE OF THE LAMBS", "SHUTTER ISLAND", "PRISONERS", "REAR WINDOW", "THE GAME", "INCEPTION"]
+    },
+    {
+      "title": "Best Mystery Movies",
+      "description": "Intriguing mystery films that unravel the truth.",
+      "posts": ["GONE GIRL", "THE USUAL SUSPECTS", "THE SIXTH SENSE", "THE GIRL WITH THE DRAGON TATTOO", "SHERLOCK HOLMES", "MURDER ON THE ORIENT EXPRESS", "PANIC ROOM", "INSOMNIA", "KNIVES OUT", "VERTIGO"]
+    },
+    {
+      "title": "Top 10 Romance Movies",
+      "description": "Heartfelt and touching romantic films.",
+      "posts": ["THE NOTEBOOK", "CASABLANCA", "LA LA LAND", "PRIDE AND PREJUDICE", "ROMEO + JULIET", "BROKEBACK MOUNTAIN", "A WALK TO REMEMBER", "10 THINGS I HATE ABOUT YOU", "ETERNAL SUNSHINE OF THE SPOTLESS MIND", "P.S. I LOVE YOU"]
+    },
+    {
+      "title": "Best War Movies",
+      "description": "Powerful war films that depict historical conflicts.",
+      "posts": ["SAVING PRIVATE RYAN", "FULL METAL JACKET", "1917", "DUNKIRK", "THE THIN RED LINE", "APOCALYPSE NOW", "HACKSAW RIDGE", "BLACK HAWK DOWN", "GRAVE OF THE FIREFLIES", "COME AND SEE"]
+    },
+    {
+      "title": "Top 10 Crime Movies",
+      "description": "Classic and gritty crime films to explore.",
+      "posts": ["PULP FICTION", "GOODFELLAS", "THE GODFATHER", "NO COUNTRY FOR OLD MEN", "THE DARK KNIGHT", "SE7EN", "THE USUAL SUSPECTS", "THE TOWN", "SIN CITY", "MOLLY'S GAME"]
+    },
+    {
+      "title": "Best Thriller TV Shows",
+      "description": "Must-watch suspenseful TV series that keep you hooked.",
+      "posts": ["TRUE DETECTIVE", "FARGO", "STRANGER THINGS", "WESTWORLD", "THE SOPRANOS", "BROADCHURCH", "THE WIRE", "TWIN PEAKS", "MR. ROBOT", "PRISON BREAK"]
+    },
+    {
+      "title": "Best Fantasy TV Shows",
+      "description": "Epic fantasy TV shows with immersive worlds.",
+      "posts": ["GAME OF THRONES", "THE MANDALORIAN", "THE WITCHER", "VIKINGS", "THE DARK CRYSTAL", "CARNIVAL ROW", "LEGEND OF KORRA", "PRINCESS MONONOKE", "FARGO", "BATTLESTAR GALACTICA"]
+    },
+    {
+      "title": "Best Historical Movies",
+      "description": "Outstanding historical films based on real events.",
+      "posts": ["BRAVEHEART", "12 YEARS A SLAVE", "LINCOLN", "TROY", "GLADIATOR", "THE PIANIST", "AMISTAD", "SCHINDLER'S LIST", "THE IMMORTALS", "MASTER AND COMMANDER"]
+    },
+    {
+      "title": "Top 10 Comedy TV Shows",
+      "description": "Laugh-out-loud comedy series to enjoy.",
+      "posts": ["THE OFFICE", "PARKS AND RECREATION", "30 ROCK", "SOUTH PARK", "IT'S ALWAYS SUNNY IN PHILADELPHIA", "THE SIMPSONS", "FRIENDS", "BROOKLYN NINE-NINE", "BIG BANG THEORY", "ARRESTED DEVELOPMENT"]
+    },
+    {
+      "title": "Best Adventure Movies",
+      "description": "Epic adventures that take you on thrilling journeys.",
+      "posts": ["JURASSIC PARK", "INDIANA JONES", "TOMB RAIDER", "JUMANJI", "RAIDERS OF THE LOST ARK", "MOANA", "THE ADVENTURES OF TINTIN", "KING KONG", "MUMMY", "CROUCHING TIGER, HIDDEN DRAGON"]
     }
   ]
 }
