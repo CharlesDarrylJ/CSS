@@ -184,9 +184,12 @@
     @media (max-width: 768px) {
 	.show-description-box {
      	    font-size: 1rem; 
+	padding: 14px;
+        line-height: 30px;
+        border-radius: 9px;
       }
       .season-button {
-      max-width: 300px;
+      transform: scale(.9);
       }
        ul {
         max-width: 300px;
@@ -202,10 +205,13 @@
       
     @media (max-width: 480px) {
 	.show-description-box {
-     	    font-size: .2rem;  
+     	    font-size: .2rem; 
+	padding: 14px;
+        line-height: 30px;
+        border-radius: 9px;
     }
     .season-button {
-      max-width: 300px;
+      transform: scale(.9);
       }
      ul {
         max-width: 300px;
@@ -213,6 +219,9 @@
     #show-info {
       max-width: 95%;
       }
+#default-message {
+    font-size: 16px;
+}
      #video-player {
       max-width: 400px;
     }
