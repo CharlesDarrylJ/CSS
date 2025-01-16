@@ -2,15 +2,22 @@
   "posts": [
     {
       "postNumber": 1,
-      "posterLink": "url(https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ugDVShuiW5fM1tUNwFtpTH_IJlMqlm7q4nL7kT79J8CCGrvLGfY2_xksyjvGyVcwChIpv3yhZRAqlNEpcPATI9URKwzPALelvgUlr9kFUIM7M9K630reUU3B2i4sBkKwKELyE6v8s1JSGTquGGjgyzpA51QgPgW-WmidtDfbkfWH-Pv5Z-vDCwQAJtSZiUDtzU2pEDvYLBKfqMz9S41pSX1bfFaWZwoF3mNQ=w223-h297-p-k-no-nu)",
-      "title": "Post Title 1",
+      "posterLink": "url(https://images.theposterdb.com/prod/public/images/posters/optimized/shows/1539540/season_c/6IykPkmEmyQ3hgBgJJoxDJZ49We79496bBgRLQS7.webp)",
+      "title": "The Penguin",
       "imdbId": "tt1234567",
       "tags": ["Action", "Adventure"]
     },
     {
       "postNumber": 2,
-      "posterLink": "url(https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ugDVShuiW5fM1tUNwFtpTH_IJlMqlm7q4nL7kT79J8CCGrvLGfY2_xksyjvGyVcwChIpv3yhZRAqlNEpcPATI9URKwzPALelvgUlr9kFUIM7M9K630reUU3B2i4sBkKwKELyE6v8s1JSGTquGGjgyzpA51QgPgW-WmidtDfbkfWH-Pv5Z-vDCwQAJtSZiUDtzU2pEDvYLBKfqMz9S41pSX1bfFaWZwoF3mNQ=w223-h297-p-k-no-nu)",
-      "title": "Post Title 2",
+      "posterLink": "url(https://images.theposterdb.com/prod/public/images/posters/optimized/shows/19893/season_c/Ds1AfFs5XFZSkhkeEYcmplwNjY4unYT5nE16i3b9.webp)",
+      "title": "Gotham",
+      "imdbId": "tt2345678",
+      "tags": ["Drama", "Mystery"]
+    },
+    {
+      "postNumber": 3,
+      "posterLink": "url(https://images.theposterdb.com/prod/public/images/posters/optimized/shows/2418/season_c/qxhV8Godbakvkc5qdHgcPNiwhFMHKiZbN0RqAaHn.webp)",
+      "title": "It",
       "imdbId": "tt2345678",
       "tags": ["Drama", "Mystery"]
     }
