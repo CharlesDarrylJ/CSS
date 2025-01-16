@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "postNumber": 1,
+      "posterLink": "url(https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ugDVShuiW5fM1tUNwFtpTH_IJlMqlm7q4nL7kT79J8CCGrvLGfY2_xksyjvGyVcwChIpv3yhZRAqlNEpcPATI9URKwzPALelvgUlr9kFUIM7M9K630reUU3B2i4sBkKwKELyE6v8s1JSGTquGGjgyzpA51QgPgW-WmidtDfbkfWH-Pv5Z-vDCwQAJtSZiUDtzU2pEDvYLBKfqMz9S41pSX1bfFaWZwoF3mNQ=w223-h297-p-k-no-nu)",
+      "title": "Post Title 1",
+      "imdbId": "tt1234567",
+      "tags": ["Action", "Adventure"]
+    },
+    {
+      "postNumber": 2,
+      "posterLink": "url(https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ugDVShuiW5fM1tUNwFtpTH_IJlMqlm7q4nL7kT79J8CCGrvLGfY2_xksyjvGyVcwChIpv3yhZRAqlNEpcPATI9URKwzPALelvgUlr9kFUIM7M9K630reUU3B2i4sBkKwKELyE6v8s1JSGTquGGjgyzpA51QgPgW-WmidtDfbkfWH-Pv5Z-vDCwQAJtSZiUDtzU2pEDvYLBKfqMz9S41pSX1bfFaWZwoF3mNQ=w223-h297-p-k-no-nu)",
+      "title": "Post Title 2",
+      "imdbId": "tt2345678",
+      "tags": ["Drama", "Mystery"]
+    }
+  ]
+}
